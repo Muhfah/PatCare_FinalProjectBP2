@@ -1,7 +1,7 @@
-# PatCare_FinalProjectBP2
+# PetCare_FinalProjectBP2
 Final Project Bahasa Pemograman 2
 
-Membuat Aplikasi E-commerce PatCare
+Membuat Aplikasi E-commerce PetCare
 
 
 Yang beranggotakan:
